@@ -1,3 +1,5 @@
-### Loser
+## Barrett Otte
 
-Kind of cringe
+### Languages
+* **Favorites** - C, Python, TypeScript, C#, Groovy, and Assembly
+* **Occupational** - RPGLE, SQL, Java, Groovy, TypeScript, XSLT, and ColdFusion
