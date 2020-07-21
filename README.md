@@ -1,7 +1,6 @@
-### Interests
-* Programming Language Design
-* Computer Architecture
-* Vintage Computing
+### General
+* **Occupation** - Software Developer Analyst
+* **Interests** - Programming Language Design, Computer Architecture, Vintage Computing
 
 ### Languages
 * **Favorites** - C, Python, TypeScript, C#, and Assembly
