@@ -1,4 +1,4 @@
-IBMi and web developer. Lifelong student aspiring to be mediocre at everything. 
+IBMi and web developer. Lifelong student aspiring to be mediocre at everything. Resume generated with LaTeX located [here](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf).
 
 ### General
 * **Occupation** - Software Developer Analyst
@@ -8,4 +8,4 @@ IBMi and web developer. Lifelong student aspiring to be mediocre at everything.
 * **Favorites** - C, Python, TypeScript, C#, and Assembly
 * **Occupational** - RPGLE, SQL, Java, Groovy, TypeScript, XSLT, and ColdFusion
 
-Resume generated with LaTeX located [here](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)
+<!-- TODO: Generate a sweet SVG to put here -->
