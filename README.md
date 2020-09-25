@@ -9,3 +9,7 @@ IBMi and web developer. Lifelong student aspiring to be mediocre at everything. 
 * **Occupational** - RPGLE, SQL, Java, Groovy, TypeScript, XSLT, and ColdFusion
 
 <!-- TODO: Generate a sweet SVG to put here -->
+
+<br>
+
+**"I'm smart enough to know that I'm dumb." - Richard Feynman**
