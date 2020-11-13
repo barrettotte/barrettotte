@@ -1,6 +1,7 @@
-IBMi and web developer. Lifelong student aspiring to be mediocre at everything. 
-
-Resume generated with LaTeX located [here](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf).
+### General 💾
+- **Summary** - IBMi and web developer. Lifelong student aspiring to be mediocre at everything. 
+- **Occupation** - Software Developer Analyst
+- **Resume** - Generated with LaTeX located [here](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf).
 
 ### Languages 💻
 - **Favorites** - C, Python, Go, TypeScript, C#, and Assembly
