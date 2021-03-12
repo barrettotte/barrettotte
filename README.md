@@ -11,7 +11,7 @@
 - Compilers
 - Digital Electronics
 
-### Programming Languages 💾
+### Languages 💾
 
 - **Favorites** - C, Python, Go, TypeScript, C#, and Assembly
 - **Occupational** - RPGLE, SQL, Java, Groovy, TypeScript, XSLT, Drools, and ColdFusion
