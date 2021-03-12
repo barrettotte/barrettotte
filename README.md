@@ -1,22 +1,32 @@
-### General 💾
+### General 💻
+
 - **Summary** - IBMi and web developer. Lifelong student aspiring to be mediocre at everything. 
 - **Occupation** - Software Developer Analyst
-- **Resume** - Generated with LaTeX located [here](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf).
+- **Resume** - [Generated with LaTeX](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf).
 
-### Languages 💻
+### Interests 🧮
+
+- History of Computing
+- Computer Architecture
+- Compilers
+- Digital Electronics
+
+### Programming Languages 💾
+
 - **Favorites** - C, Python, Go, TypeScript, C#, and Assembly
 - **Occupational** - RPGLE, SQL, Java, Groovy, TypeScript, XSLT, Drools, and ColdFusion
+- Here is a list of languages I've played around with - [languages.md](https://gist.github.com/barrettotte/d28a7eb7d1cfd086448c28dcd0d72828)
 
-### Interests 📚
-- Computer Architecture
-- Vintage Computing
-- Digital Electronics
-- Programming Language Design
-- Compilers
+### Learning 📚
 
+- Operating Systems
+- Mechanical Engineering
+
+<!--
 <p align="center">
   <strong>"I'm smart enough to know that I'm dumb." - Richard Feynman</strong>
 </p>
+-->
 
 <!--
 <hr><br>
