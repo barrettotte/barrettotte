@@ -10,7 +10,8 @@
 </p>
 -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=barrettotte&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrettotte&theme=dark&layout=compact&hide=jupyter%20notebook,ANTLR,JSON,Markdown&langs_count=10"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barrettotte&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrettotte&theme=dark&layout=compact&hide=jupyter%20notebook,ANTLR,JSON,Markdown&langs_count=10"/>
 </p>
