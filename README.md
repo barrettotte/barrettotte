@@ -11,16 +11,9 @@
 -->
 
 <!--
-<hr><br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrettotte&exclude_repo=LOTL,Learn,barrettotte.github.io&hide=jupyter%20notebook,JSON,ANTLR,Markdown&langs_count=10&layout=compact" />
-</p>
--->
-
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=barrettotte&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrettotte&theme=dark&layout=compact&hide=jupyter%20notebook,ANTLR,JSON,Markdown&langs_count=10"/>
 </p>
-
+-->
