@@ -4,7 +4,7 @@
 - 📜 Favorite languages are **C**, **Python**, **Go**, **TypeScript**, **C#**, and **Assembly**; List of languages I've played around with - [languages.md](https://gist.github.com/barrettotte/d28a7eb7d1cfd086448c28dcd0d72828)
 - 🏭 Software Developer Analyst in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, XSLT, Drools, ColdFusion.
 
-<hr>
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=barrettotte&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
