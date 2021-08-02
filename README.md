@@ -2,7 +2,7 @@
 - 🧮 Interested in **History of Computing**, **Computer Architecture**, **Compilers**, **Electronics**.
 - 📚 Learning about **Operating Systems** and **Mechanical Engineering**.
 - 📜 Favorite languages are **C**, **Python**, **Go**, **TypeScript**, **C#**, and **Assembly**; List of languages I've played around with - [languages.md](https://gist.github.com/barrettotte/d28a7eb7d1cfd086448c28dcd0d72828)
-- 🏭 Software Developer Analyst in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, XSLT, Drools, ColdFusion.
+- 🏭 Software Developer Analyst in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, ColdFusion.
 
 <br>
 
