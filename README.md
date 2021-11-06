@@ -4,6 +4,7 @@
 - 📚 Learning about **operating systems**, **mechanical engineering**, and **semiconductors**.
 - 🏭 Software Developer in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, ColdFusion.
 
+<!--
 <br>
 
 <p align="center">
@@ -11,3 +12,4 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrettotte&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,ANTLR,JSON,Markdown&langs_count=10"/>
 </p>
+-->
