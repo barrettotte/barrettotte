@@ -1,7 +1,7 @@
 - 💻 Lifelong student aspiring to be mediocre at everything.
 - 🧮 Interested in **History of computing**, **computer architecture**, **compilers**, and **electronics**.
-- 📜 Favorite languages are **C**, **Rust**, **Python**, **TypeScript**, **C#**, and **Assembly**.
-- 📚 Learning about **operating systems**, **electronics**, and **mechanical engineering**.
+- 📜 Favorite languages are **C**, **Assembly**, **Rust**, **Python**, and **TypeScript**.
+- 📚 Learning about **electronics** and **mechanical engineering**.
 
 <!--
 - 🏭 Software Developer in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, ColdFusion, JavaScript, and XSLT.
