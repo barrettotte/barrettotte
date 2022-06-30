@@ -1,6 +1,6 @@
 - 💻 Lifelong student aspiring to be mediocre at everything.
 - 🧮 Interested in **History of computing**, **computer architecture**, **compilers**, and **electronics**.
-- 📜 Favorite languages are **C**, **Assembly**, **Rust**, **Python**, and **TypeScript**.
+- 📜 Favorite languages are **C**, **Assembly**, **Python**, **Go**, and **TypeScript**.
 - 📚 Learning about **electronics** and **mechanical engineering**.
 
 <!--
