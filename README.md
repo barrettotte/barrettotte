@@ -1,11 +1,7 @@
-- 💻 Lifelong student aspiring to be mediocre at everything.
+- 💻 Lifelong student aspiring to learn a little of everything.
 - 🧮 Interested in **History of computing**, **computer architecture**, **compilers**, and **electronics**.
-- 📜 Favorite languages are **C**, **Assembly**, **Python**, **Go**, and **TypeScript**.
-- 📚 Learning about **electronics** and **mechanical engineering**.
-
-<!--
-- 🏭 Software Developer in insurance domain [[Resume](https://github.com/barrettotte/Resume/blob/master/barrettotte-resume.pdf)] - Java, Groovy, TypeScript, SQL, RPGLE, ColdFusion, JavaScript, and XSLT.
--->
+- 📜 Favorite languages are **C**, **Assembly**, **Python**, and **Go**.
+- 📚 Learning about **electronics**, **radio**, and **mechanical engineering**.
 
 <!--
 <br>
