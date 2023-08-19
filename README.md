@@ -1,7 +1,8 @@
 - 💻 Lifelong student aspiring to learn a little of everything.
-- 🧮 Interested in **History of computing**, **computer architecture**, **compilers**, and **electronics**.
+- 🧮 Interested in the **history of computing**, **computer architecture**, and **electronics**.
 - 📜 Favorite languages are **C**, **Assembly**, **Python**, and **Go**.
-- 📚 Learning about **embedded systems**, **computational electromagnetics**, and **radio**.
+- 📚 Learning about **radio**, **analog electronics**, and **analog computers**.
+- ⚙️ Working on an overly ambitious book on the history of computing and technology.
 
 <!--
 <br>
