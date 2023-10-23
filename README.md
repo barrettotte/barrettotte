@@ -4,9 +4,8 @@
 - 📚 Learning about **radio**, **analog electronics**, and **analog computers**.
 - ⚙️ Working on an overly ambitious book on the history of computing and technology.
 
-<div align="center">
-  <img style="width:50%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.jpg" alt="My cave"/>
-</div>
+<br>
+<img style="width:33%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.jpg" alt="My cave"/>
 
 <!--
 <br>
