@@ -1,4 +1,4 @@
-<img align="right" width="55%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.png" alt="My cave"/>
+<img align="right" width="60%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.png" alt="My cave"/>
 <div align="left">
     <p>💻 Software engineer, tinkerer, loser.</p>
     <p>⚙️ Primarily work with <strong>Java</strong>, <strong>Postgres</strong>, and <strong>Vue</strong>. Formerly IBM i.</p>
