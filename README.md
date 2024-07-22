@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.png" alt="My cave"/>
+<img align="right" width="50%" src="https://raw.githubusercontent.com/barrettotte/barrettotte.github.io/master/static/img/carousel/cave.png" alt="My cave"/>
 <div align="left">
   <p>💻 Software engineer, tinkerer, loser.</p>
   <p>🧮 Interested in the <strong>history of computing</strong>, <strong>computer architecture</strong>, and <strong>electronics</strong>.</p>
